@@ -28,4 +28,4 @@ engineering and provides practical guidance for improving team dynamics and soft
 
 ## Support
 
-If you have any questions on this project or get stuck during code execution, feel free to create issue on this repository. We will be able to fix your issue.
+If you have any questions on this project, feel free to create issue on this repository. We will be able to fix your issue.
